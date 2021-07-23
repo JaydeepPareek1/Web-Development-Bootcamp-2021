@@ -1,0 +1,31 @@
+/************TAG SELECTORS***********/
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: orange;
+}
+img:hover{
+    background-color: gold;
+}
+/*img{
+    background-color: sandybrown;
+}
+*/
+/*************CLASS SELECTORS**************/
+.pizza{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+.paragraph{
+    color: salmon;
+}
+.circular{
+    border-radius: 100%;
+}
+/*************ID SELECTORS***************/
+#heading{
+    color: blue;
+}
